@@ -1,6 +1,7 @@
 # Simple Order
 
 //AUTHOR:JAHN GABRIEL D. VILADOR
+
 //SECTION:BSIT 251 A
 
 
@@ -8,6 +9,7 @@ A Dart console program that prints a canteen order receipt.
 
 ## Output
 
+```
 Order for Guest
 3 x Adobo rice     255.00
 1 x Iced tea        35.00
@@ -15,3 +17,4 @@ Order for Guest
 Subtotal           365.00
 Discount 10%       -36.50
 Total              328.50
+```
