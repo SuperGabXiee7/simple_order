@@ -1,2 +1,17 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# Simple Order
+
+//AUTHOR:JAHN GABRIEL D. VILADOR
+//SECTION:BSIT 251 A
+
+
+A Dart console program that prints a canteen order receipt.
+
+## Output
+
+Order for Guest
+3 x Adobo rice     255.00
+1 x Iced tea        35.00
+3 x Turon           75.00
+Subtotal           365.00
+Discount 10%       -36.50
+Total              328.50
